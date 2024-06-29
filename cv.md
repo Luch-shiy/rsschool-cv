@@ -49,7 +49,7 @@ None
 1 High School, Minsk, Belarus  
 High School diploma. 9.3 gpa
 
-Minsk Academy of Telecommunications
+Minsk Academy of Telecommunications  
 Associate Degree in Software Development. 9.0 gpa
 
 ## English level
