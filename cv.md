@@ -2,8 +2,8 @@
 coder, avid fantasy reader
 
 ## Contacts
-email: dontcontactme@gmail.com
-phone: +375 (17) 111-111-11
+email: dontcontactme@gmail.com  
+phone: +375 (17) 111-111-11  
 
 ## About me
 I'm a passionate individual who thrives in structured environments and loves learning new things. My curiosity drives me to explore different subjects, from the depths of fantasy novels to the intricate world of coding.
@@ -17,20 +17,20 @@ A strong sense of organization and a love for schedules help me stay focused and
 If you're looking for someone who is curious, driven, and loves to learn, I'm your person.
 ## Skills
 ### Technical:
-• Coding: Pyhton, Django, HTML, CSS
-• Problem Solving
-• Software Development: Experience with Test driven development
-• Data Analysis: Basic understanding of data analysis techniques and tools
+• Coding: Pyhton, Django, HTML, CSS  
+• Problem Solving  
+• Software Development: Experience with Test driven development  
+• Data Analysis: Basic understanding of data analysis techniques and tools  
 
 ### Soft Skills:
-• Communication: Excellent written and verbal communication skills
-• Teamwork: Collaborative and enjoys working in a team environment
-• Time Management: Highly organized and efficient in managing time and tasks
-• Adaptability: Open to new challenges and adaptable to changing environments
-• Self-Learning: Passionate about continuous learning and development
+• Communication: Excellent written and verbal communication skills  
+• Teamwork: Collaborative and enjoys working in a team environment  
+• Time Management: Highly organized and efficient in managing time and tasks  
+• Adaptability: Open to new challenges and adaptable to changing environments  
+• Self-Learning: Passionate about continuous learning and development  
 
 ### Other:
-• English C1
+• English: C1
 
 ## Code example(s)
 ```python
@@ -43,7 +43,16 @@ def greet(name):
 greet("World")
 ```
 ## Job experience
+None
 
 ## Education
+1 High School, Minsk, Belarus  
+High School diploma. 9.3 gpa
+
+Minsk Academy of Telecommunications
+Associate Degree in Software Development. 9.0 gpa
 
 ## English level
+С1 
+
+More than half the time my thoughts have 26 letters. In spare time love to read books in english.
