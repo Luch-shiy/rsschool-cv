@@ -4,18 +4,34 @@
         <title>Ruslan Luch CV</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/style.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
     </head>
     <body>
         <main>
+            <header>
+                <nav>
+                    <ul>
+                        <li><a href="#contacts-header">contacts</a></li>
+                        <li><a href="#about-me-header">about me</a></li>
+                        <li><a href="#skills-header">skills</a></li>
+                        <li><a href="#code-example-header">code example</a></li>
+                        <li><a href="#job-experience-header">job experience</a></li>
+                        <li><a href="#education-header">education</a></li>
+                        <li><a href="#english-level-header">english level</a></li>
+                    </ul>
+                </nav>
+            </header>•
+
+            <hr>
+
             <h1>Ruslan Luch</h1>
             coder, avid fantasy reader
 
-            <h2>Contacts</h2>
+            <h2 id="contacts-header">Contacts</h2>
             email: dontcontactme@gmail.com
             phone: +375 (17) 111-111-11
 
-            <h2>About me</h2>
+            <h2 id="about-me-header">About me</h2>
             I'm a passionate individual who thrives in structured environments and loves learning new things. My curiosity drives me to explore different subjects, from the depths of fantasy novels to the intricate world of coding.
 
             When I'm not coding or exploring new knowledge, I enjoy escaping into fantastical realms through books. Though I have a soft spot for fantasy, I also appreciate non-fiction for its ability to expand my understanding of the world.
@@ -25,25 +41,31 @@
             A strong sense of organization and a love for schedules help me stay focused and productive. I believe in the power of structure to achieve goals and maximize efficiency.
 
             If you're looking for someone who is curious, driven, and loves to learn, I'm your person.
-            <h2>Skills</h2>
+            <h2 id="skills-header">Skills</h2>
             <h3>Technical</h3>
-            • Coding: Pyhton, Django, HTML, CSS
-            • Problem Solving
-            • Software Development: Experience with Test driven development
-            • Data Analysis: Basic understanding of data analysis techniques and tools
-
+            <ul>
+                <li>Coding: Pyhton, Django, HTML, CSS</li>
+                <li>Problem Solving</li>
+                <li>Software Development: Experience with Test driven development</li>
+                <li>Data Analysis: Basic understanding of data analysis techniques and tools</li>
+            </ul>
             <h3>Soft Skills</h3>
-            • Communication: Excellent written and verbal communication skills
-            • Teamwork: Collaborative and enjoys working in a team environment
-            • Time Management: Highly organized and efficient in managing time and tasks
-            • Adaptability: Open to new challenges and adaptable to changing environments
-            • Self-Learning: Passionate about continuous learning and development
+            <ul>
+                <li>Communication: Excellent written and verbal communication skills</li>
+                <li>Teamwork: Collaborative and enjoys working in a team environment</li>
+                <li>Time Management: Highly organized and efficient in managing time and tasks</li>
+                <li>Adaptability: Open to new challenges and adaptable to changing environments</li>
+                <li>Self-Learning: Passionate about continuous learning and development</li>
+            </ul>
 
             <h3>Other</h3>
-            • English: C1
+            <ul>
+                <li>English: C1</li>
+            </ul>
 
-            <h2>Code example</h2>
-            ```python
+            <h2 id="code-example-header">Code example</h2>
+            <code>
+            <pre>
             def greet(name):
               """
               This function greets the user with their name.
@@ -51,28 +73,31 @@
               print(f"Hello, {name}! It's nice to meet you.")
 
             greet("World")
-            ```
-            <h2>Job experience</h2>
+            </pre>
+            </code>
+            <h2 id="job-experience-header">Job experience</h2>
             None
 
-            <h2>Education</h2>
-            1 High School, Minsk, Belarus
-            High School diploma. 9.3 gpa
+            <h2 id="education-header">Education</h2>
+            <ul>
+               <li>1 High School, Minsk, Belarus</li> 
+                High School diploma. 9.3 gpa
+                <li>Minsk Academy of Telecommunications</li>
+                Associate Degree in Software Development. 9.0 gpa
+            </ul>
 
-            Minsk Academy of Telecommunications
-            Associate Degree in Software Development. 9.0 gpa
-
-            <h2>English level</h2>
-            С1
-
-            More than half the time my thoughts have 26 letters. In spare time love to read books in english.
+            <h2 id="english-level-header">English level</h2>
+            С1. More than half the time my thoughts have 26 letters. In spare time love to read books in english.
         </main>
+
+        <hr>
 
         <footer>
             <a href="https://github.com/Luch-shiy">GitHub</a>
             <a href="https://rs.school/courses/javascript-ru">
-                <img src="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/rs-school-logo.svg" alt="course logo">
+                <img id="course-image" src="https://raw.githubusercontent.com/rolling-scopes-school/tasks/34c6c5cbc96ec26fcfdb022d1a6f3b2641f0110c/tasks/cv/rs-school-logo.svg" alt="course logo">
             </a>
+            2024
         </footer>
     </body>
 </html>
